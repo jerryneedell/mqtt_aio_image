@@ -1,0 +1,6 @@
+export AIOIMAGE_PASSWORD='icloud app specific password'
+export AIOIMAGE_USERNAME='icloud username'
+export ADAFRUIT_IO_KEY='aio key'
+export ADAFRUIT_IO_USERNAME='aio username'
+export ICLOUD_EMAIL='icloud email address'
+export IMAGE_RECIPIENT='recipient email address'
